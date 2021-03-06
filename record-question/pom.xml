@@ -13,4 +13,12 @@
     <name>record-question</name>
     <description>题目微服务</description>
 
+
+    <dependencies>
+
+
+
+    </dependencies>
+
+
 </project>

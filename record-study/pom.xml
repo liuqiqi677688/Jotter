@@ -13,4 +13,7 @@
     <name>record-study</name>
     <description>学习微服务</description>
 
+    <dependencies>
+    </dependencies>
+
 </project>
